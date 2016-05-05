@@ -2,11 +2,12 @@
 Clans for Arma 3 Exile Mod
 
 <b>This is a work in progress.</b>
-<br>
-<br>Ability to use XM8 to open Clans Page
-<br>Create clan at the cost of desired 'Pop Tabs' defined in Cfg
-<br>Invite, kick, and disband clan
-<br>Show markers of clan members
-
-<b>Required:
-<br>MySQL database</b>
+<br><ul>
+<br><li>Ability to use XM8 to open Clans Page</li>
+<br><li>Create clan at the cost of desired 'Pop Tabs' defined in Cfg</li>
+<br><li>Invite, kick, and disband clan</li>
+<br><li>Show markers of clan members</li>
+</ul>
+<b>Required:<ul>
+<br><li>MySQL database</b></li>
+</ul>
